@@ -1,6 +1,10 @@
+# We will use 4/5 of our late days. This assignment will be completed by Sunday 10am
+
 # Comp333-react-backend
 
-# We will use 4/5 of our late days. This assignment will be completed by Sunday 10am
+## Contribution
+- Freddy: 90%
+- Max: 10 %
 
 # This Repo contains the backend functions of our react app.
 
