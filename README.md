@@ -39,7 +39,9 @@ Now, you're ready to run and explore the application locally!
 - Parameters: {}
 - Response: {success: bool}
 
-### Music Endpoints
+
+
+# Music Endpoints
 
 #### /music/create
 - Type: POST
