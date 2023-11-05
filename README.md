@@ -23,6 +23,16 @@ To run the application locally, follow these steps:
 
 Now, you're ready to run and explore the application locally!
 
+# Here is How your local database should be structured:
+
+## Users:
+<img width="1323" alt="Screenshot 2023-11-05 at 1 50 31 AM" src="https://github.com/Freddy444/Comp333-react-backend/assets/99642629/29903e7a-0a83-4104-8c47-ad8ffcb6742b">
+
+
+## Music:
+<img width="1380" alt="Screenshot 2023-11-05 at 1 50 12 AM" src="https://github.com/Freddy444/Comp333-react-backend/assets/99642629/26600e05-9b96-4a63-8a7c-54720df54c35">
+
+
 
 # API Endpoints
 
