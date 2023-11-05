@@ -20,7 +20,7 @@ To run the application locally, follow these steps:
 Now, you're ready to run and explore the application locally!
 
 
-## API Endpoints
+# API Endpoints
 
 ### User Endpoints
 
