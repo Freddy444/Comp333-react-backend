@@ -53,12 +53,12 @@ Now, you're ready to run and explore the application locally!
   
 #### /music/list
 - Type: GET
-- Parameters: Not Applicable
+- Parameters: N/A
 - Response: {[{id: int, artist: string, song: string, username: string, rating: int},...]}
 
 #### /music/read
 - Type: GET
-- Parameters: Not applicable
+- Parameters: N/A
 - Response: {id: int, artist: string, song: string, username: string, rating: int}
 
 #### /music/delete
