@@ -1,4 +1,4 @@
-# We will use 4/5 of our late days. This assignment will be completed by Sunday 10am
+# We will use 5/5 of our late days. This assignment will be completed by Sunday 10am
 
 # Comp333-react-backend
 
