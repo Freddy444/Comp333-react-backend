@@ -2,9 +2,9 @@
 
 # Comp333-react-backend
 
-## Contribution
+## Backend Contribution
 - Freddy: 95%
-- Max: 5%
+- Max: 0%
 
 # This Repo contains the backend functions of our react app.
 
