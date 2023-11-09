@@ -34,6 +34,7 @@ function handleOptionsRequest() {
     exit;
 }
 
+
 /**
  * Sets CORS headers for regular requests.
  */
@@ -65,7 +66,7 @@ function routeRequest($uriSegments) {
         require "/Applications/XAMPP/xamppfiles/htdocs/controller/Api/UserController.php";
         $controller = new UserController();
     } elseif ($uriSegments[2] == 'music') {
-        require PROJECT_ROOT_PATH . "/controller/APi/SongController.php";
+        require PROJECT_ROOT_PATH . "/controller/Api/SongController.php";
         $controller = new SongController();
     }
 
